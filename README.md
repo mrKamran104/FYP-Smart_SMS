@@ -1,6 +1,6 @@
 # Final Year Project - Smart SMS (Android Application)
 
-![Smart SMS Overview](https://user-images.githubusercontent.com/56494086/130777075-75f5a961-4b46-447d-84a1-e71b49770219.gif "Smart SMS Overview")
+https://user-images.githubusercontent.com/56494086/130779060-eafa91e0-adbc-4b48-af75-23ffc4ec24ca.mp4
 
 ## Introduction
 
