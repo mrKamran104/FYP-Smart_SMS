@@ -1,5 +1,9 @@
 # Final Year Project - Smart SMS (Android Application)
+
+![Smart SMS Overview](https://user-images.githubusercontent.com/56494086/130777075-75f5a961-4b46-447d-84a1-e71b49770219.gif "Smart SMS Overview")
+
 ## Introduction
+
   The basic purpose of this application is to transferring image/audio from one device to another using the SMS technique. Basically, it will be used for sending an image/audio to a remote location through a chunk of SMS in offline mode (Without using the internet). So that the primary goal of this App is to facilitate the under-developed area with no internet or poor internet connection 3G/LTE/4G signal and another who can’t afford a data bundle can share image/audio.
 
 The application handles all the operations and SMS which relate to this App and convert them into image/audio.
